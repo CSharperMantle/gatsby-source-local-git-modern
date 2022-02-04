@@ -20,7 +20,7 @@ const Layout = ({ children }) => {
           title
         }
       }
-      sitePlugin(name: { eq: "gatsby-source-local-git" }) {
+      sitePlugin(name: { eq: "gatsby-source-local-git-modern" }) {
         version
         pluginFilepath
       }

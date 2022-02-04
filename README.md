@@ -1,8 +1,8 @@
 # gatsby-source-local-git-modern
 
-[![npm](https://img.shields.io/npm/v/gatsby-source-local-git?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/gatsby-source-local-git)
-[![MIT](https://img.shields.io/github/license/pmudra/gatsby-source-local-git?style=for-the-badge)](https://github.com/PMudra/gatsby-source-local-git/blob/master/LICENSE)
-[![build](https://img.shields.io/github/workflow/status/PMudra/gatsby-source-local-git/Node%20CI?logo=github&style=for-the-badge)](https://github.com/PMudra/gatsby-source-local-git/actions)
+[![npm](https://img.shields.io/npm/v/gatsby-source-local-git-modern?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/gatsby-source-local-git-modern)
+[![MIT](https://img.shields.io/github/license/CSharperMantle/gatsby-source-local-git-modern?style=for-the-badge)](https://github.com/CSharperMantle/gatsby-source-local-git-modern/blob/master/LICENSE)
+[![build](https://img.shields.io/github/workflow/status/CSharperMantle/gatsby-source-local-git-modern/Node%20CI?logo=github&style=for-the-badge)](https://github.com/CSharperMantle/gatsby-source-local-git-modern/actions)
 
 This is a fork and modernized version of [`gatsby-source-local-git`](https://github.com/PMudra/gatsby-source-local-git) with the aim of keeping up with latest dependency versions and APIs.
 

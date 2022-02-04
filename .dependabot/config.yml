@@ -8,7 +8,7 @@ update_configs:
           dependency_type: "all"
           update_type: "all"
   - package_manager: "javascript"
-    directory: "/examples/using-gatsby-source-local-git"
+    directory: "/examples/using-gatsby-source-local-git-modern"
     update_schedule: "weekly"
     automerged_updates:
       - match:

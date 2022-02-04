@@ -1,4 +1,4 @@
-# using-gatsby-source-local-git
+# using-gatsby-source-local-git-modern
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0d695d10-14c7-44e3-8fd9-b561762f087b/deploy-status)](https://app.netlify.com/sites/using-gatsby-source-local-git/deploys)
 

@@ -75,7 +75,7 @@ const Index = ({ data }) => (
       gatsby-source-local-git is a Gatsby source plugin for sourcing data into
       your Gatsby application from your local git repository. The Plugin is open
       source and hosted on{" "}
-      <a href="https://github.com/PMudra/gatsby-source-local-git">GitHub</a>.
+      <a href="https://github.com/CSharperMantle/gatsby-source-local-git-modern">GitHub</a>.
     </p>
     <p>The following information is generated using the plugin.</p>
     <h3>Summary</h3>

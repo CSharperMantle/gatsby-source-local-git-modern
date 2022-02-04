@@ -1,7 +1,7 @@
 {
   "name": "using-gatsby-source-local-git-modern",
   "private": true,
-  "description": "Simple example website demonstrating the features of the gatsby-source-local-git Gatsby plugin. Based on Gatsby default starter",
+  "description": "Simple example website demonstrating the features of the gatsby-source-local-git-modern Gatsby plugin. Based on Gatsby default starter",
   "version": "0.1.0",
   "dependencies": {
     "gatsby": "^4.6.0",

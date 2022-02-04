@@ -27,10 +27,10 @@ jobs:
     - uses: actions/setup-node@v1
       with:
         node-version: 12
-    - name: npm install, build, and test
+    - name: yarn install, build, and test
       run: |
-        npm ci
-        npm run build
-      working-directory: ./examples/using-gatsby-source-local-git
+        yarn install --frozen-lockfile
+        yarn run build
+      working-directory: ./examples/using-gatsby-source-local-git-modern
       env:
         CI: true
