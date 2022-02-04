@@ -50,6 +50,10 @@ const createDiff = ({ files, ...rest }: DiffResult) => ({
   })),
 })
 
+const createSchemaCustomization = ({ actions }: SourceNodesArgs) => {
+  actions.createTypes(typeDefs)
+}
+
 const sourceNodes = async (helpers: SourceNodesArgs) => {
   helpers.actions.createTypes(typeDefs)
 
@@ -79,4 +83,4 @@ const sourceNodes = async (helpers: SourceNodesArgs) => {
   branches.forEach((branch) => createBranchNode(branch))
 }
 
-export { sourceNodes }
+export { createSchemaCustomization, sourceNodes }

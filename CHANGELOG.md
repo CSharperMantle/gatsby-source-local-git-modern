@@ -26,7 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Read full file names of changed files from git log.
 
-## 1.1.0 - 2020-08-05
+## [1.1.0] - 2020-08-05
 ### Added
 - Include changed files in `Commit` nodes.
 

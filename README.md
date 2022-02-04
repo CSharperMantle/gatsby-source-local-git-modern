@@ -1,8 +1,10 @@
-# gatsby-source-local-git
+# gatsby-source-local-git-modern
 
 [![npm](https://img.shields.io/npm/v/gatsby-source-local-git?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/gatsby-source-local-git)
 [![MIT](https://img.shields.io/github/license/pmudra/gatsby-source-local-git?style=for-the-badge)](https://github.com/PMudra/gatsby-source-local-git/blob/master/LICENSE)
 [![build](https://img.shields.io/github/workflow/status/PMudra/gatsby-source-local-git/Node%20CI?logo=github&style=for-the-badge)](https://github.com/PMudra/gatsby-source-local-git/actions)
+
+This is a fork and modernized version of [`gatsby-source-local-git`](https://github.com/PMudra/gatsby-source-local-git) with the aim of keeping up with latest dependency versions and APIs.
 
 A Gatsby source plugin for sourcing data into your Gatsby application from your local git repository.
 The plugin enables gatsby sites to include meta data about their own git repository at build time.
@@ -14,7 +16,7 @@ Missing a feature? Please create an issue (or even a pull request).
 ## Install
 
 ```shell
-npm install --save gatsby-source-local-git
+npm install --save gatsby-source-local-git-modern
 ```
 
 ## How to use
@@ -22,7 +24,7 @@ npm install --save gatsby-source-local-git
 ```javascript
 // In your gatsby-config.js
 module.exports = {
-  plugins: [`gatsby-source-local-git`],
+  plugins: [`gatsby-source-local-git-modern`],
 }
 ```
 
