@@ -4556,10 +4556,10 @@ gatsby-source-filesystem@^4.6.0:
     valid-url "^1.0.9"
     xstate "^4.26.1"
 
-gatsby-source-local-git-modern@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/gatsby-source-local-git-modern/-/gatsby-source-local-git-modern-2.0.0.tgz#7be0b4ac16780245d11b689d5a210e0fea0b4618"
-  integrity sha512-1m5zOVJSH+E6+P4qe+F5pYtPjnoCVjCIJq5edtQc7fkzHbYVWgDx4mbnmZH4ojDPic3jB1GU67yx7YXaZcAlzA==
+gatsby-source-local-git-modern@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/gatsby-source-local-git-modern/-/gatsby-source-local-git-modern-2.0.1.tgz#4702a13008c42ee1661f118eff8426b14f5e0a76"
+  integrity sha512-JneL1cMx/I2hyN2v9aZvRrMJiPCpwzgZK91T0FqwhbmmfBGIZxVkWCEllWygyCzF869NtdNLByii1eNM0ltKag==
   dependencies:
     simple-git "^3.1.1"
 
