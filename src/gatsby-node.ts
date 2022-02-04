@@ -55,8 +55,6 @@ const createSchemaCustomization = ({ actions }: SourceNodesArgs) => {
 }
 
 const sourceNodes = async (helpers: SourceNodesArgs) => {
-  helpers.actions.createTypes(typeDefs)
-
   const createCommitNode = createNodeFactory<Commit>(
     "GitCommit",
     helpers,
