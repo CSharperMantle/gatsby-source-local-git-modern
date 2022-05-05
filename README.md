@@ -4,7 +4,7 @@
 [![MIT](https://img.shields.io/github/license/CSharperMantle/gatsby-source-local-git-modern?style=for-the-badge)](https://github.com/CSharperMantle/gatsby-source-local-git-modern/blob/master/LICENSE)
 [![build](https://img.shields.io/github/workflow/status/CSharperMantle/gatsby-source-local-git-modern/Node%20CI?logo=github&style=for-the-badge)](https://github.com/CSharperMantle/gatsby-source-local-git-modern/actions)
 
-Update: Archived. Refer to the [original repository](https://github.com/PMudra/gatsby-source-local-git) for latest updates.
+**Update: Archived.** Refer to the [original repository](https://github.com/PMudra/gatsby-source-local-git) for latest updates.
 
 This is a fork and modernized version of [`gatsby-source-local-git`](https://github.com/PMudra/gatsby-source-local-git) with the aim of keeping up with latest dependency versions and APIs.
 
